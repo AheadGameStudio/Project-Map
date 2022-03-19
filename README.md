@@ -1,3 +1,13 @@
+# Project Map - Ahead Version
+
+個人的に使いやすくカスタマイズするためにフォークしたプロジェクトマッププラグイン。
+
+
+## ライセンス
+Copyright © [Yogoda](https://github.com/Yogoda)
+
+----
+
 # Project Map plugin for Godot
 
 This adds a new tab "Project" to your editor.
@@ -32,20 +42,29 @@ Use the handle to resize according to the text. The handle only appears when hov
 
 # Changelog
 
-## 1.3
+## Ahead Version
+
+### 1.0
+  - Fork Repository
+
+----
+
+## Original Version
+
+### 1.3
   - Add directory node
   - Add comment node
   - Add undo/redo
   - Improve group node handling
 
-## 1.2 
+### 1.2
 - Add group node
 - Save file node data to improve loading time
 
-## 1.1
+### 1.1
 - Update graph when moving or deleting files
 - Save graph scene under a different name (project_map_save.tscn)
 - Can now drag multiple files at once
 
-## 1.0
+### 1.0
 - Initial release
